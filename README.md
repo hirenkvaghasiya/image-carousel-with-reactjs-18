@@ -19,9 +19,33 @@
 - Conditionals (ternaries)
 - Lists, keys, and .map()
 
+## How to get Started 🚀
+**There are two methods for getting started with this repo.**
+
+#### Familiar with Git ?
+```
+- git clone https://github.com/hirenkvaghasiya/image-carousel-with-reactjs-18.git
+- cd image-carousel-with-reactjs-18/
+- npm install
+- npm run start OR npm start
+```
+
+#### Not Familiar with Git ?
+download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+> cd image-carousel-with-reactjs-18
+> npm install
+> npm run start OR npm start
+```
+
+## Snap Shot(s) 📷
+
+![Alt text](public/Screenshot-001.png?raw=true "06/04/2023 - 10:23 PM GMT")
+
 ## Author
 
-[@hirenkvaghasiya](https://github.com/hirenkvaghasiya) 🚀
+[@hirenkvaghasiya](https://github.com/hirenkvaghasiya)
 
 ## License
 
