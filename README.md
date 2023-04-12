@@ -1,4 +1,4 @@
-# Project 1 - Simple Image Carousel with ReactJS 18
+# Project 1 - Simple Image Carousel with ReactJS 18 🚀
 ## Beginner level
 
 ![licence](https://img.shields.io/badge/licence-MIT-blue)
@@ -21,7 +21,7 @@
 
 ## Author
 
-[@hirenkvaghasiya](https://github.com/hirenkvaghasiya)
+[@hirenkvaghasiya](https://github.com/hirenkvaghasiya) 🚀
 
 ## License
 
