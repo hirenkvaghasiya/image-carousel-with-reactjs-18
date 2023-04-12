@@ -1,5 +1,5 @@
-# Project 1 
-## Simple Image Carousel with ReactJS 18
+# Project 1 - Simple Image Carousel with ReactJS 18
+## Beginner level
 
 ![licence](https://img.shields.io/badge/licence-MIT-blue)
 
